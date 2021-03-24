@@ -1,0 +1,5 @@
+.vs/
+.vsconfig/
+Library/
+Assets/FreeHDRSkyboxesPack/
+*.meta
