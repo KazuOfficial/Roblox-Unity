@@ -14,4 +14,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Play.unity
     guid: 9ee140741b12d5646b14924212a71d3d
+  - enabled: 1
+    path: Assets/Scenes/Crossroads.unity
+    guid: 4126651efe91bd04181288ded23258b9
+  - enabled: 1
+    path: Assets/Scenes/Yorick's Resting Place.unity
+    guid: f9e8e2cfa8902f04682358bf29679e09
   m_configObjects: {}

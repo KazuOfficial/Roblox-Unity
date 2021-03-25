@@ -61,6 +61,7 @@
     <Compile Include="Assets\Scripts\AudioPlayer.cs" />
   </ItemGroup>
   <ItemGroup>
+     <None Include="Assets\laxer tree pkg\README.txt" />
     <Reference Include="UnityEngine">
       <HintPath>D:\Program Files\2020.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
