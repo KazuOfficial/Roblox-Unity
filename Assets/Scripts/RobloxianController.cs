@@ -59,6 +59,7 @@ public class RobloxianController : MonoBehaviour
         if (Input.GetButtonDown("Jump") && isGrounded)
         {
             velocity.y = Mathf.Sqrt(jumpHeight * -2f * gravity);
+            //velocity.y = Mathf.Sqrt(jumpHeight * -2f * Time.deltaTime);
         }
 
         if (isGrounded != true)
