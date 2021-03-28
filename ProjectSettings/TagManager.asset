@@ -6,6 +6,10 @@ TagManager:
   tags:
   - Teleporter
   - Ladder
+  - SkyLift
+  - JumpPad
+  - JumpPadToSky
+  - JumpPadMush
   layers:
   - Default
   - TransparentFX

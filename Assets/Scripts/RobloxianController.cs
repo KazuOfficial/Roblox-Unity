@@ -84,4 +84,20 @@ public class RobloxianController : MonoBehaviour
 
         controller.Move(velocity * Time.deltaTime);
     }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject.CompareTag("JumpPad"))
+        {
+            velocity.y = Mathf.Sqrt(8f * -2f * gravity);
+        }
+        else if (other.gameObject.CompareTag("JumpPadToSky"))
+        {
+            velocity.y = Mathf.Sqrt(40f * -2f * gravity);
+        }
+        else if (other.gameObject.CompareTag("JumpPadMush"))
+        {
+            velocity.y = Mathf.Sqrt(52f * -2f * gravity);
+        }
+    }
 }

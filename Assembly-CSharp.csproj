@@ -56,13 +56,16 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Spikes.cs" />
+    <Compile Include="Assets\Scripts\Inventory.cs" />
     <Compile Include="Assets\Scripts\RobloxianController.cs" />
     <Compile Include="Assets\Scripts\Menu.cs" />
-    <Compile Include="Assets\Scripts\Teleporter.cs" />
-    <Compile Include="Assets\Scripts\AudioPlayer.cs" />
-    <Compile Include="Assets\Scripts\Spikes.cs" />
-    <Compile Include="Assets\Scripts\Keys.cs" />
+    <Compile Include="Assets\Scripts\JumpPad.cs" />
     <Compile Include="Assets\Scripts\Ladder.cs" />
+    <Compile Include="Assets\Scripts\Teleporter.cs" />
+    <Compile Include="Assets\Scripts\Keys.cs" />
+    <Compile Include="Assets\Scripts\AudioPlayer.cs" />
+    <Compile Include="Assets\Scripts\KeyDoors.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
