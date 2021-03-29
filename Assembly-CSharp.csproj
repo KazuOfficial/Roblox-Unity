@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Spikes.cs" />
+    <Compile Include="Assets\Scripts\KeyDoors.cs" />
     <Compile Include="Assets\Scripts\Inventory.cs" />
     <Compile Include="Assets\Scripts\RobloxianController.cs" />
     <Compile Include="Assets\Scripts\Menu.cs" />
@@ -65,9 +66,9 @@
     <Compile Include="Assets\Scripts\Teleporter.cs" />
     <Compile Include="Assets\Scripts\Keys.cs" />
     <Compile Include="Assets\Scripts\AudioPlayer.cs" />
-    <Compile Include="Assets\Scripts\KeyDoors.cs" />
   </ItemGroup>
   <ItemGroup>
+     <None Include="Assets\Hovl Studio\Procedural fire\Shaders\FireSphere.shader" />
     <Reference Include="UnityEngine">
       <HintPath>D:\Program Files\2020.3.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>

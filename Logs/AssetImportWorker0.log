@@ -1,0 +1,590 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.1f1 (77a89f25062f) revision 7841951'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 18363.1440; Version 1909; 64bit' Language: 'en' Physical Memory: 8126 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Program Files\2020.3.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/UnityProjects/Kazu/Roblox Unity
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53864
+Successfully changed project path to: D:/UnityProjects/Kazu/Roblox Unity
+D:/UnityProjects/Kazu/Roblox Unity
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 33.06 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.1f1 (77a89f25062f)
+[Subsystems] Discovering subsystems at path D:/Program Files/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/UnityProjects/Kazu/Roblox Unity/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c81)
+    Vendor:   
+    VRAM:     1977 MB
+    Driver:   27.21.14.6089
+Initialize mono
+Mono path[0] = 'D:/Program Files/2020.3.1f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Program Files/2020.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Program Files/2020.3.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56244
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.000948 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 31.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.996 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000512 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.035 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1390 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.4 MB.
+System memory in use after: 72.4 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1850.
+Total: 2.497600 ms (FindLiveObjects: 0.160100 ms CreateObjectMapping: 0.057400 ms MarkObjects: 2.190200 ms  DeleteObjects: 0.088800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Images/Masthead_Koopa.17345b1513ac044897cfc243542899dce541e8dc.9afde10b.png
+  artifactKey: Guid(aecde8412fb3be24abf7bc5e197d7b8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Masthead_Koopa.17345b1513ac044897cfc243542899dce541e8dc.9afde10b.png using Guid(aecde8412fb3be24abf7bc5e197d7b8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc38d3e55b9c5ba2cd5a27cfd0c97a62') in 0.075662 seconds
+  Import took 0.102347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.912052 seconds.
+  path: Assets/Images/Masthead_Koopa.17345b1513ac044897cfc243542899dce541e8dc.9afde10b.png
+  artifactKey: Guid(aecde8412fb3be24abf7bc5e197d7b8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Masthead_Koopa.17345b1513ac044897cfc243542899dce541e8dc.9afde10b.png using Guid(aecde8412fb3be24abf7bc5e197d7b8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd622c7fb92e0aec7399d788f37ed35e1') in 0.023141 seconds
+  Import took 0.046189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.470210 seconds.
+  path: Assets/Materials/Koopa.mat
+  artifactKey: Guid(54a91342262138745955af9e23daeee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Koopa.mat using Guid(54a91342262138745955af9e23daeee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37fe627441075f7ea7ac1e9216a30451') in 0.101497 seconds
+  Import took 0.118054 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 68.815650 seconds.
+  path: Assets/Materials/Koopa.mat
+  artifactKey: Guid(54a91342262138745955af9e23daeee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Koopa.mat using Guid(54a91342262138745955af9e23daeee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93621302cb2fa52b2f809a8fdc03ecbb') in 0.021259 seconds
+  Import took 0.034275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1049.882604 seconds.
+  path: Assets/Hovl Studio/Procedural fire
+  artifactKey: Guid(2d64942fe7ee62d45b4390f432692f2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Procedural fire using Guid(2d64942fe7ee62d45b4390f432692f2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3864335613cd282c8b67ea90c4c5acea') in 0.008057 seconds
+  Import took 0.011692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.092852 seconds.
+  path: Assets/Hovl Studio/Procedural fire/Materials
+  artifactKey: Guid(c109c1384274de146a494be626c64b64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Procedural fire/Materials using Guid(c109c1384274de146a494be626c64b64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '431078821a982bc2688fbb387f69aef1') in 0.007654 seconds
+  Import took 0.046767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Hovl Studio/Procedural fire/Materials/Smoke26.mat
+  artifactKey: Guid(1fd724d226066ad4cbc105d4ad53a444) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Procedural fire/Materials/Smoke26.mat using Guid(1fd724d226066ad4cbc105d4ad53a444) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bb67e785120ebcaf7127d666425a1ba') in 0.076043 seconds
+  Import took 0.095812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Hovl Studio/Procedural fire/Materials/FireSphere2.mat
+  artifactKey: Guid(2e69c8c236ea65447a07e24d8cbed40b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Procedural fire/Materials/FireSphere2.mat using Guid(2e69c8c236ea65447a07e24d8cbed40b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '215f67d7ead132db5dc59a49f18452c4') in 0.183905 seconds
+  Import took 0.186466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Hovl Studio/Procedural fire/Materials/SparkSphere.mat
+  artifactKey: Guid(20e729147a4dad247abfc2305c3dd963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Procedural fire/Materials/SparkSphere.mat using Guid(20e729147a4dad247abfc2305c3dd963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ae7269779629d29b5778d96a3307153') in 0.021298 seconds
+  Import took 0.053059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Hovl Studio/Procedural fire/Materials/FireSphere1.mat
+  artifactKey: Guid(14fab0de6c54324468738e7b38a88207) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Procedural fire/Materials/FireSphere1.mat using Guid(14fab0de6c54324468738e7b38a88207) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b78b9b09feb5f3fbe55130a871df710') in 0.020626 seconds
+  Import took 0.024002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000477 seconds.
+  path: Assets/Hovl Studio/Procedural fire/Materials/Trail67.mat
+  artifactKey: Guid(3632881d102df0f47864d899fa15a49d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Procedural fire/Materials/Trail67.mat using Guid(3632881d102df0f47864d899fa15a49d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3926664d6bcaa725a175f911d27e1404') in 0.017705 seconds
+  Import took 0.022212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.810768 seconds.
+  path: Assets/Hovl Studio/Procedural fire/Prefabs/Explosion.prefab
+  artifactKey: Guid(67a684e320da6e7439421a07e3fa265c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Procedural fire/Prefabs/Explosion.prefab using Guid(67a684e320da6e7439421a07e3fa265c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '721c8dfaecda979a6c30e957407cbb8e') in 0.019697 seconds
+  Import took 0.047519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Hovl Studio/Procedural fire/Prefabs/Magic fire 3.prefab
+  artifactKey: Guid(78e8b38d431ddef4fa2994a3f2d6e2ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Procedural fire/Prefabs/Magic fire 3.prefab using Guid(78e8b38d431ddef4fa2994a3f2d6e2ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aea77a9962e90a93b51f8a4c5eec52c7') in 0.010051 seconds
+  Import took 0.016393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Hovl Studio/Procedural fire/Prefabs/Magic fire pro orange.prefab
+  artifactKey: Guid(e55149ba6f4d00741984987e258c3378) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Procedural fire/Prefabs/Magic fire pro orange.prefab using Guid(e55149ba6f4d00741984987e258c3378) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37f53eaf5522c389b6c2e5d7e38b56f9') in 0.010221 seconds
+  Import took 0.013662 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Hovl Studio/Procedural fire/Prefabs/Magic fire pro yellow.prefab
+  artifactKey: Guid(52d340ed9c2714c4f8aabf1f82df1b58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Procedural fire/Prefabs/Magic fire pro yellow.prefab using Guid(52d340ed9c2714c4f8aabf1f82df1b58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c060fd36bed41fb9eb6a551460e058bc') in 0.008584 seconds
+  Import took 0.017347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Hovl Studio/Procedural fire/Prefabs/Magic fire pro blue.prefab
+  artifactKey: Guid(c590b17884b119046bc6412066500b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Procedural fire/Prefabs/Magic fire pro blue.prefab using Guid(c590b17884b119046bc6412066500b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9368b41d16feb948fcf8eb146b699f9') in 0.009351 seconds
+  Import took 0.013349 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Hovl Studio/Procedural fire/Prefabs/RotatorPS2.prefab
+  artifactKey: Guid(26255240385821a4185c7163c7a7aec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Procedural fire/Prefabs/RotatorPS2.prefab using Guid(26255240385821a4185c7163c7a7aec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e4ed6b1510c73ba0a2c2acbf703251a') in 0.012912 seconds
+  Import took 0.019144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Hovl Studio/Procedural fire/Prefabs/Magic fire 0.prefab
+  artifactKey: Guid(08fd1b80cc24cc8439f45fda3c558255) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Procedural fire/Prefabs/Magic fire 0.prefab using Guid(08fd1b80cc24cc8439f45fda3c558255) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d6e6546838a982ec6a1074b1629c7f2') in 0.008347 seconds
+  Import took 0.012328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Hovl Studio/Procedural fire/Prefabs/Magic fire pro green.prefab
+  artifactKey: Guid(3d35e81bdc5955041be098ef22e82a3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Procedural fire/Prefabs/Magic fire pro green.prefab using Guid(3d35e81bdc5955041be098ef22e82a3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce21a889796ca15c391ae7ce13b2eb38') in 0.009580 seconds
+  Import took 0.012879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Hovl Studio/Procedural fire/Prefabs/Magic fire pro red.prefab
+  artifactKey: Guid(eca000ab44c908d4dab395f654753038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Procedural fire/Prefabs/Magic fire pro red.prefab using Guid(eca000ab44c908d4dab395f654753038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '331ec6492780141226975aafa1dab033') in 0.010848 seconds
+  Import took 0.024101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Hovl Studio/Procedural fire/Prefabs/Magic fire 2.prefab
+  artifactKey: Guid(529eb4216865eba419c1a4a68d0b0388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Procedural fire/Prefabs/Magic fire 2.prefab using Guid(529eb4216865eba419c1a4a68d0b0388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b890393cf093b48a8ac821502218472') in 0.008227 seconds
+  Import took 0.011559 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Hovl Studio/Procedural fire/Prefabs/RotatorPS1.prefab
+  artifactKey: Guid(1381b64ff1936ac4e80c3a00687081f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Procedural fire/Prefabs/RotatorPS1.prefab using Guid(1381b64ff1936ac4e80c3a00687081f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71f441e5ad43cce5b640a7f9923c7c4e') in 0.009925 seconds
+  Import took 0.013218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Hovl Studio/Procedural fire/Prefabs/Magic fire 1.prefab
+  artifactKey: Guid(25093a0593dc83043a7bc17ebba0e95d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Procedural fire/Prefabs/Magic fire 1.prefab using Guid(25093a0593dc83043a7bc17ebba0e95d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e715c52b25d3e05d46b83683e59970e3') in 0.009487 seconds
+  Import took 0.012445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.829796 seconds.
+  path: Assets/Hovl Studio/Procedural fire/Textures/FireSphere1.png
+  artifactKey: Guid(31679c4b857f0d140bd9566b86eb8674) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Procedural fire/Textures/FireSphere1.png using Guid(31679c4b857f0d140bd9566b86eb8674) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '729f3e2e9f66742d5bfbc83698b886ed') in 0.011224 seconds
+  Import took 0.024239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Hovl Studio/Procedural fire/Textures/Smoke26.png
+  artifactKey: Guid(08b3912bdc0a5ed4d9a27125425a97f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Procedural fire/Textures/Smoke26.png using Guid(08b3912bdc0a5ed4d9a27125425a97f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40559b924e3c3c4f7332b93c4e295fc0') in 0.016394 seconds
+  Import took 0.020008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Hovl Studio/Procedural fire/Textures/Trail67.png
+  artifactKey: Guid(c4f655f5d01f55547a23a546b58afd04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Procedural fire/Textures/Trail67.png using Guid(c4f655f5d01f55547a23a546b58afd04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb004851ae5243a9d47a0b170369541c') in 0.012117 seconds
+  Import took 0.015816 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Hovl Studio/Procedural fire/Textures/FireSphere2.png
+  artifactKey: Guid(a52c2b00382a3264cbea32cfc2c36b34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/Procedural fire/Textures/FireSphere2.png using Guid(a52c2b00382a3264cbea32cfc2c36b34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8fd9829f7c23a2e9711113efc94ee83') in 0.010982 seconds
+  Import took 0.023698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 701.073876 seconds.
+  path: Assets/Images/fireguy.png
+  artifactKey: Guid(a47a8eb2729a74945b0d127eecdf9a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/fireguy.png using Guid(a47a8eb2729a74945b0d127eecdf9a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13daf8a1be10c368b9d2d0715f221bbb') in 0.034565 seconds
+  Import took 0.073703 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 496.829901 seconds.
+  path: Assets/Images/blueyoshirunning.png
+  artifactKey: Guid(9f2845379cb35b1489b7597a8335d923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/blueyoshirunning.png using Guid(9f2845379cb35b1489b7597a8335d923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6d17d1b909da2ec452dcfa8aa261fa5') in 0.021677 seconds
+  Import took 0.026285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Images/redyoshi.png
+  artifactKey: Guid(16c2202b6359ae847ac444c5156c8ffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/redyoshi.png using Guid(16c2202b6359ae847ac444c5156c8ffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e73130011e45a722207f5adb64a8aa79') in 0.019424 seconds
+  Import took 0.021894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Images/fireguy.png
+  artifactKey: Guid(a47a8eb2729a74945b0d127eecdf9a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/fireguy.png using Guid(a47a8eb2729a74945b0d127eecdf9a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b54dcb804d6fefae952a5855885fd98e') in 0.014386 seconds
+  Import took 0.025324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Images/greenyoshi.png
+  artifactKey: Guid(326dc35ba9e2afa498691610c6412520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/greenyoshi.png using Guid(326dc35ba9e2afa498691610c6412520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f41c3c198a179a2d9171d26d24f3997e') in 0.017622 seconds
+  Import took 0.024045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.762966 seconds.
+  path: Assets/Images/blueyoshirunning.png
+  artifactKey: Guid(9f2845379cb35b1489b7597a8335d923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/blueyoshirunning.png using Guid(9f2845379cb35b1489b7597a8335d923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1433de8008e9ac34056d2826628d96fc') in 0.039435 seconds
+  Import took 0.054254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Images/fireguy.png
+  artifactKey: Guid(a47a8eb2729a74945b0d127eecdf9a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/fireguy.png using Guid(a47a8eb2729a74945b0d127eecdf9a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34ff145f4f67e5d367d65bb9030fa3f2') in 0.014274 seconds
+  Import took 0.057728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Images/greenyoshi.png
+  artifactKey: Guid(326dc35ba9e2afa498691610c6412520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/greenyoshi.png using Guid(326dc35ba9e2afa498691610c6412520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48f172b7a4a54339ceab32d46e1557c4') in 0.011882 seconds
+  Import took 0.017905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.384492 seconds.
+  path: Assets/Materials/GreenYoshi.mat
+  artifactKey: Guid(3c04acd147bfafe499095b5ee3789bf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/GreenYoshi.mat using Guid(3c04acd147bfafe499095b5ee3789bf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d3c1c9df641dbc4b52f797d1a79a2ee') in 0.026117 seconds
+  Import took 0.029582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.641077 seconds.
+  path: Assets/Materials/BlueYoshiRunning.mat
+  artifactKey: Guid(01e1c0efe481a5f40b7e717063412fd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/BlueYoshiRunning.mat using Guid(01e1c0efe481a5f40b7e717063412fd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '363190d773039497cee5a02410470492') in 0.033692 seconds
+  Import took 0.052726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.473527 seconds.
+  path: Assets/Materials/Fireguy.mat
+  artifactKey: Guid(72edd4558ca23ad489afcf664068cd12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Fireguy.mat using Guid(72edd4558ca23ad489afcf664068cd12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46a5521ca3125d17f29dc510167c4512') in 0.036481 seconds
+  Import took 0.053656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.437344 seconds.
+  path: Assets/Materials/Redyoshi.mat
+  artifactKey: Guid(56a468b72dd9ef74db4dab718519eb9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Redyoshi.mat using Guid(56a468b72dd9ef74db4dab718519eb9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e97f5d6d12daeaaa82d79dccc66c644') in 0.013233 seconds
+  Import took 0.024662 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.071081 seconds.
+  path: Assets/Images/redyoshi.png
+  artifactKey: Guid(16c2202b6359ae847ac444c5156c8ffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/redyoshi.png using Guid(16c2202b6359ae847ac444c5156c8ffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d63efb242522c8bc096966e5ec14c1d') in 0.024273 seconds
+  Import took 0.033255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.674511 seconds.
+  path: Assets/Materials/BlueYoshiRunning.mat
+  artifactKey: Guid(01e1c0efe481a5f40b7e717063412fd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/BlueYoshiRunning.mat using Guid(01e1c0efe481a5f40b7e717063412fd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '626587824c8de29dfdb45387e1a828f7') in 0.020304 seconds
+  Import took 0.037698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Materials/GreenYoshi.mat
+  artifactKey: Guid(3c04acd147bfafe499095b5ee3789bf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/GreenYoshi.mat using Guid(3c04acd147bfafe499095b5ee3789bf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4030b63110a5e80993defac1c7ab14f9') in 0.022644 seconds
+  Import took 0.079192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Materials/Fireguy.mat
+  artifactKey: Guid(72edd4558ca23ad489afcf664068cd12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Fireguy.mat using Guid(72edd4558ca23ad489afcf664068cd12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '169c2a11aba9f660295a03ee7dcebf24') in 0.017747 seconds
+  Import took 0.020625 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Materials/Redyoshi.mat
+  artifactKey: Guid(56a468b72dd9ef74db4dab718519eb9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Redyoshi.mat using Guid(56a468b72dd9ef74db4dab718519eb9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94f808bf673a255464bda8dd2e8d8354') in 0.014944 seconds
+  Import took 0.025216 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001129 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.974 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1359 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.9 MB.
+System memory in use after: 74.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1900.
+Total: 2.153100 ms (FindLiveObjects: 0.158600 ms CreateObjectMapping: 0.053800 ms MarkObjects: 1.845700 ms  DeleteObjects: 0.093500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000617 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.844 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1357 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.8 MB.
+System memory in use after: 73.9 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1903.
+Total: 1.903700 ms (FindLiveObjects: 0.176400 ms CreateObjectMapping: 0.048500 ms MarkObjects: 1.585000 ms  DeleteObjects: 0.092800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000613 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.002 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1357 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.9 MB.
+System memory in use after: 73.9 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1906.
+Total: 3.415300 ms (FindLiveObjects: 0.672100 ms CreateObjectMapping: 0.254000 ms MarkObjects: 2.418200 ms  DeleteObjects: 0.069200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2355.153995 seconds.
+  path: Assets/Images/greenyoshirunning.png
+  artifactKey: Guid(ffee3da21774c4a4ca4c3c9b8052828d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/greenyoshirunning.png using Guid(ffee3da21774c4a4ca4c3c9b8052828d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bbc6b9bf0465744c7116369ff3f0ef1') in 0.146213 seconds
+  Import took 0.163863 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.661852 seconds.
+  path: Assets/Images/gruby.png
+  artifactKey: Guid(28387bc411e4b16488f3113058ea76ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/gruby.png using Guid(28387bc411e4b16488f3113058ea76ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f0b633e7ea1ed712760bccac3dfe5cd') in 0.044362 seconds
+  Import took 0.061491 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.977498 seconds.
+  path: Assets/Images/greenyoshirunning.png
+  artifactKey: Guid(ffee3da21774c4a4ca4c3c9b8052828d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/greenyoshirunning.png using Guid(ffee3da21774c4a4ca4c3c9b8052828d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '138e7b6d50e5fa5d68e580ad2167c804') in 0.053500 seconds
+  Import took 0.078513 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Images/gruby.png
+  artifactKey: Guid(28387bc411e4b16488f3113058ea76ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/gruby.png using Guid(28387bc411e4b16488f3113058ea76ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a0e7aef167c2eeacb919d6d415f9be3') in 0.013413 seconds
+  Import took 0.020928 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 404.712693 seconds.
+  path: Assets/Materials/GreenYoshiRunning.mat
+  artifactKey: Guid(d2cd95a1f5a30fe4fa390c66f85d5a2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/GreenYoshiRunning.mat using Guid(d2cd95a1f5a30fe4fa390c66f85d5a2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcc1e5d4496d974d8efe1002143591c2') in 0.120412 seconds
+  Import took 0.141007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.518747 seconds.
+  path: Assets/Materials/GreenYoshiRunning.mat
+  artifactKey: Guid(d2cd95a1f5a30fe4fa390c66f85d5a2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/GreenYoshiRunning.mat using Guid(d2cd95a1f5a30fe4fa390c66f85d5a2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c452ec91d3b762a28d031e486ba4205') in 0.016638 seconds
+  Import took 0.034200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 495.994146 seconds.
+  path: Assets/Materials/GreenYoshiRunning.mat
+  artifactKey: Guid(d2cd95a1f5a30fe4fa390c66f85d5a2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/GreenYoshiRunning.mat using Guid(d2cd95a1f5a30fe4fa390c66f85d5a2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '643b4339bce7238cd839f643432518a4') in 0.034621 seconds
+  Import took 0.055985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 547.779260 seconds.
+  path: Assets/Materials/FatGuy.mat
+  artifactKey: Guid(818f7cd2c7553b34383a3956afa57428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/FatGuy.mat using Guid(818f7cd2c7553b34383a3956afa57428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54c0fb498812bf0e7787648bafec1dea') in 0.016927 seconds
+  Import took 0.039226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 372.235002 seconds.
+  path: Assets/Materials/FatGuy.mat
+  artifactKey: Guid(818f7cd2c7553b34383a3956afa57428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/FatGuy.mat using Guid(818f7cd2c7553b34383a3956afa57428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3dc68b7473ff7574d545b0c812a711f') in 0.027279 seconds
+  Import took 0.041550 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002375 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.993 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1357 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.9 MB.
+System memory in use after: 74.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1910.
+Total: 6.007100 ms (FindLiveObjects: 0.437900 ms CreateObjectMapping: 0.064000 ms MarkObjects: 5.435900 ms  DeleteObjects: 0.067300 ms)
+
